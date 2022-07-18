@@ -1,0 +1,10 @@
+hola:hi
+palabra:word
+raton:mouse
+parlante:speaker
+disco:disk
+camara:camera
+fumar:smoke
+puerta:door
+cama:bed
+zapato:shoe
